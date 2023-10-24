@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Aashish 
-- 👀 I’m interested in web dev
-- 🌱 I’m currently learning javascript and some algorithams.
-- 💞️ I’m looking to collaborate on ...
+- 👀 Building some side projects
+- 🌱 looking for work
 - 📫 Reach me at aashishkathat00@gmail.com
 
 <!---
