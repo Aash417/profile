@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Aashish 
 - 👀 Building some side projects
-- 🌱 looking for work
 - 📫 Reach me at aashishkathat00@gmail.com
 
 <!---
